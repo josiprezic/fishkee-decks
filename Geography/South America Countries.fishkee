@@ -1,0 +1,22 @@
+{
+  "cards": [
+    { "frontText": "🇦🇷", "backText": "Argentina" },
+    { "frontText": "🇧🇴", "backText": "Bolivia" },
+    { "frontText": "🇧🇷", "backText": "Brazil" },
+    { "frontText": "🇨🇱", "backText": "Chile" },
+    { "frontText": "🇨🇴", "backText": "Colombia" },
+    { "frontText": "🇪🇨", "backText": "Ecuador" },
+    { "frontText": "🇬🇾", "backText": "Guyana" },
+    { "frontText": "🇵🇾", "backText": "Paraguay" },
+    { "frontText": "🇵🇪", "backText": "Peru" },
+    { "frontText": "🇸🇷", "backText": "Suriname" },
+    { "frontText": "🇺🇾", "backText": "Uruguay" },
+    { "frontText": "🇻🇪", "backText": "Venezuela" }
+  ],
+  "description": "Learn South American countries by recognizing their flags",
+  "formatVersion": 1,
+  "name": "South America Countries",
+  "presentationColorHex": "#00C853",
+  "presentationEmoji": "🌎",
+  "randomized": true
+}
