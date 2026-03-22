@@ -1,0 +1,52 @@
+{
+  "cards": [
+    { "frontText": "Hydrogen ion", "backText": "H⁺" },
+    { "frontText": "Lithium ion", "backText": "Li⁺" },
+    { "frontText": "Sodium ion", "backText": "Na⁺" },
+    { "frontText": "Potassium ion", "backText": "K⁺" },
+    { "frontText": "Ammonium ion", "backText": "NH₄⁺" },
+
+    { "frontText": "Magnesium ion", "backText": "Mg²⁺" },
+    { "frontText": "Calcium ion", "backText": "Ca²⁺" },
+    { "frontText": "Barium ion", "backText": "Ba²⁺" },
+    { "frontText": "Zinc ion", "backText": "Zn²⁺" },
+    { "frontText": "Iron(II) ion", "backText": "Fe²⁺" },
+    { "frontText": "Copper(II) ion", "backText": "Cu²⁺" },
+    { "frontText": "Lead(II) ion", "backText": "Pb²⁺" },
+
+    { "frontText": "Aluminum ion", "backText": "Al³⁺" },
+    { "frontText": "Iron(III) ion", "backText": "Fe³⁺" },
+    { "frontText": "Chromium(III) ion", "backText": "Cr³⁺" },
+
+    { "frontText": "Fluoride ion", "backText": "F⁻" },
+    { "frontText": "Chloride ion", "backText": "Cl⁻" },
+    { "frontText": "Bromide ion", "backText": "Br⁻" },
+    { "frontText": "Iodide ion", "backText": "I⁻" },
+    { "frontText": "Hydroxide ion", "backText": "OH⁻" },
+    { "frontText": "Nitrate ion", "backText": "NO₃⁻" },
+    { "frontText": "Nitrite ion", "backText": "NO₂⁻" },
+    { "frontText": "Acetate ion", "backText": "CH₃COO⁻" },
+    { "frontText": "Bicarbonate ion", "backText": "HCO₃⁻" },
+    { "frontText": "Permanganate ion", "backText": "MnO₄⁻" },
+    { "frontText": "Cyanide ion", "backText": "CN⁻" },
+
+    { "frontText": "Oxide ion", "backText": "O²⁻" },
+    { "frontText": "Sulfide ion", "backText": "S²⁻" },
+    { "frontText": "Carbonate ion", "backText": "CO₃²⁻" },
+    { "frontText": "Sulfate ion", "backText": "SO₄²⁻" },
+    { "frontText": "Sulfite ion", "backText": "SO₃²⁻" },
+    { "frontText": "Chromate ion", "backText": "CrO₄²⁻" },
+    { "frontText": "Dichromate ion", "backText": "Cr₂O₇²⁻" },
+    { "frontText": "Oxalate ion", "backText": "C₂O₄²⁻" },
+
+    { "frontText": "Phosphate ion", "backText": "PO₄³⁻" },
+    { "frontText": "Phosphite ion", "backText": "PO₃³⁻" },
+    { "frontText": "Arsenate ion", "backText": "AsO₄³⁻" }
+  ],
+  "description": "Common ions and their charges, including monoatomic and polyatomic ions",
+  "formatVersion": 1,
+  "name": "Common Ions & Charges",
+  "presentationColorHex": "#32D74B",
+  "presentationEmoji": "⚡",
+  "randomized": true
+}
