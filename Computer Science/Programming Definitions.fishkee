@@ -1,0 +1,51 @@
+{
+  "cards": [
+    { "frontText": "Variable", "backText": "A named storage that holds a value which can change during program execution" },
+    { "frontText": "Constant", "backText": "A value that cannot be changed once defined" },
+    { "frontText": "Data Type", "backText": "A classification that specifies the type of value a variable can hold (e.g., int, string)" },
+
+    { "frontText": "Function", "backText": "A reusable block of code that performs a specific task and may return a value" },
+    { "frontText": "Method", "backText": "A function that is associated with an object or class" },
+    { "frontText": "Parameter", "backText": "A variable passed into a function or method" },
+    { "frontText": "Argument", "backText": "The actual value provided to a function or method when it is called" },
+    { "frontText": "Return Value", "backText": "The value that a function sends back after execution" },
+
+    { "frontText": "Class", "backText": "A blueprint for creating objects, defining properties and methods" },
+    { "frontText": "Object", "backText": "An instance of a class containing data and behavior" },
+    { "frontText": "Attribute", "backText": "A variable that belongs to a class or object" },
+    { "frontText": "Property", "backText": "A controlled attribute, often accessed via getters and setters" },
+
+    { "frontText": "Structure (Struct)", "backText": "A data type that groups related variables together, often simpler than a class" },
+
+    { "frontText": "Encapsulation", "backText": "The concept of hiding internal data and exposing only necessary parts" },
+    { "frontText": "Abstraction", "backText": "The process of hiding complex implementation details and showing only essential features" },
+    { "frontText": "Inheritance", "backText": "A mechanism where one class derives properties and behavior from another class" },
+    { "frontText": "Polymorphism", "backText": "The ability of different objects to respond to the same method in different ways" },
+
+    { "frontText": "Interface", "backText": "A contract that defines methods a class must implement without providing their code" },
+    { "frontText": "Constructor", "backText": "A special method used to initialize an object when it is created" },
+
+    { "frontText": "Loop", "backText": "A control structure that repeats a block of code multiple times" },
+    { "frontText": "Conditional", "backText": "A statement that executes code based on a condition (if/else)" },
+
+    { "frontText": "Array", "backText": "A collection of elements stored at contiguous memory locations" },
+    { "frontText": "List", "backText": "A dynamic collection of elements that can grow or shrink" },
+    { "frontText": "Dictionary (Map)", "backText": "A collection of key-value pairs" },
+
+    { "frontText": "Algorithm", "backText": "A step-by-step procedure to solve a problem" },
+    { "frontText": "Recursion", "backText": "A technique where a function calls itself" },
+
+    { "frontText": "Compilation", "backText": "The process of converting source code into machine code before execution" },
+    { "frontText": "Interpretation", "backText": "Executing code line-by-line without prior compilation" },
+
+    { "frontText": "Syntax", "backText": "The set of rules that defines the structure of code in a language" },
+    { "frontText": "Runtime Error", "backText": "An error that occurs while the program is running" },
+    { "frontText": "Debugging", "backText": "The process of finding and fixing errors in code" }
+  ],
+  "description": "Essential programming concepts and definitions for beginners",
+  "formatVersion": 1,
+  "name": "Programming Definitions",
+  "presentationColorHex": "#0A84FF",
+  "presentationEmoji": "💻",
+  "randomized": true
+}
