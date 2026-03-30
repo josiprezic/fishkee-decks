@@ -1,0 +1,48 @@
+{
+  "cards": [
+    { "frontText": "Charles Babbage", "backText": "Designed the Analytical Engine, a mechanical general-purpose computer concept in the 19th century" },
+    { "frontText": "Ada Lovelace", "backText": "Considered the first computer programmer for writing an algorithm for Babbage’s Analytical Engine" },
+
+    { "frontText": "Alan Turing", "backText": "Pioneered theoretical computer science and artificial intelligence; introduced the concept of the Turing Machine" },
+    { "frontText": "Turing Machine", "backText": "A theoretical device that manipulates symbols on a tape to simulate any computer algorithm" },
+
+    { "frontText": "ENIAC", "backText": "One of the first general-purpose electronic digital computers, completed in 1945" },
+    { "frontText": "EDVAC", "backText": "An early computer that introduced the stored-program concept" },
+
+    { "frontText": "Stored-Program Concept", "backText": "The idea that instructions and data are stored in the same memory" },
+    { "frontText": "John von Neumann", "backText": "Developed the architecture for stored-program computers still used today" },
+
+    { "frontText": "Transistor", "backText": "An electronic component that replaced vacuum tubes and enabled smaller, more reliable computers" },
+    { "frontText": "Integrated Circuit", "backText": "A set of electronic circuits on a small chip, leading to modern microprocessors" },
+
+    { "frontText": "Microprocessor", "backText": "A computer processor on a single chip, enabling personal computers" },
+    { "frontText": "Moore’s Law", "backText": "The observation that the number of transistors on a chip doubles approximately every two years" },
+
+    { "frontText": "UNIX", "backText": "An influential multiuser, multitasking operating system developed in the 1970s" },
+    { "frontText": "C Programming Language", "backText": "A powerful low-level programming language developed for system programming and UNIX" },
+
+    { "frontText": "ARPANET", "backText": "An early network developed in the late 1960s that became the foundation of the Internet" },
+    { "frontText": "Internet", "backText": "A global network of interconnected computers that communicate using standardized protocols" },
+
+    { "frontText": "World Wide Web", "backText": "A system of interlinked documents accessed via the Internet, invented by Tim Berners-Lee" },
+    { "frontText": "HTML", "backText": "The standard markup language used to create web pages" },
+
+    { "frontText": "Personal Computer (PC)", "backText": "A computer designed for individual use, popularized in the 1970s and 1980s" },
+    { "frontText": "Graphical User Interface (GUI)", "backText": "A user interface that allows interaction through graphical elements like windows and icons" },
+
+    { "frontText": "Open Source Software", "backText": "Software with source code that anyone can inspect, modify, and enhance" },
+    { "frontText": "Linux", "backText": "An open-source operating system kernel widely used in servers and devices" },
+
+    { "frontText": "Artificial Intelligence (AI)", "backText": "The field of creating machines capable of performing tasks that typically require human intelligence" },
+    { "frontText": "Machine Learning", "backText": "A subset of AI focused on systems that learn from data" },
+
+    { "frontText": "Cloud Computing", "backText": "The delivery of computing services over the Internet" },
+    { "frontText": "Big Data", "backText": "Extremely large datasets that require advanced methods to process and analyze" }
+  ],
+  "description": "Key figures, inventions, and milestones in the history of computer science",
+  "formatVersion": 1,
+  "name": "Computer Science History",
+  "presentationColorHex": "#34C759",
+  "presentationEmoji": "🖥️",
+  "randomized": true
+}
